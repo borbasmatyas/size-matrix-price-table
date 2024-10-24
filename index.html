@@ -9,30 +9,14 @@
     <link rel="stylesheet" href="footer.css">
 </head>
 <body>
-
-  <button id="price_matrix_orientation_switch">Álló / Felkvő </button>
-  
-  
-  <div id="price_matrix" class="price-grid">
+    
+    <button id="price_matrix_orientation_switch">Álló / Felkvő </button>
+    
+    <div id="price_matrix" class="price-grid">
     <!-- Ide kerül majd az árlista -->
-      
-  </div>
+    </div>
   
-    <script>
-        fetch('items.json')
-        .then(response => response.json())
-        .then(data => {
-            let items = data;
-            console.log(items);
-        })
-        .catch(error => {
-            console.error('Error loading JSON file:', error);
-        });
-    </script>
     <script src="script.js"></script>
-
-
-
   
     <footer>
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-mark-github">
