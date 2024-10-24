@@ -1,0 +1,418 @@
+[
+      {
+          "sku": "900-P100100",
+          "item_name": "POSZTER 100X100",
+          "width": 100,
+          "height": 100,
+          "size": "100X100",
+          "price": 18200
+      },
+      {
+          "sku": "900-P100120",
+          "item_name": "POSZTER 100X120",
+          "width": 100,
+          "height": 120,
+          "size": "100X120",
+          "price": 21840
+      },
+      {
+          "sku": "900-P100150",
+          "item_name": "POSZTER 100X150",
+          "width": 100,
+          "height": 150,
+          "size": "100X150",
+          "price": 27300
+      },
+      {
+          "sku": "900-P30100",
+          "item_name": "POSZTER 30X100",
+          "width": 30,
+          "height": 100,
+          "size": "30X100",
+          "price": 5460
+      },
+      {
+          "sku": "900-P30120",
+          "item_name": "POSZTER 30X120",
+          "width": 30,
+          "height": 120,
+          "size": "30X120",
+          "price": 6552
+      },
+      {
+          "sku": "900-P30150",
+          "item_name": "POSZTER 30X150",
+          "width": 30,
+          "height": 150,
+          "size": "30X150",
+          "price": 8190
+      },
+      {
+          "sku": "900-P3030",
+          "item_name": "POSZTER 30X30",
+          "width": 30,
+          "height": 30,
+          "size": "30X30",
+          "price": 1638
+      },
+      {
+          "sku": "900-P3040",
+          "item_name": "POSZTER 30X40",
+          "width": 30,
+          "height": 40,
+          "size": "30X40",
+          "price": 2184
+      },
+      {
+          "sku": "900-P3050",
+          "item_name": "POSZTER 30X50",
+          "width": 30,
+          "height": 50,
+          "size": "30X50",
+          "price": 2730
+      },
+      {
+          "sku": "900-P3060",
+          "item_name": "POSZTER 30X60",
+          "width": 30,
+          "height": 60,
+          "size": "30X60",
+          "price": 3276
+      },
+      {
+          "sku": "900-P3070",
+          "item_name": "POSZTER 30X70",
+          "width": 30,
+          "height": 70,
+          "size": "30X70",
+          "price": 3822
+      },
+      {
+          "sku": "900-P3080",
+          "item_name": "POSZTER 30X80",
+          "width": 30,
+          "height": 80,
+          "size": "30X80",
+          "price": 4368
+      },
+      {
+          "sku": "900-P3090",
+          "item_name": "POSZTER 30X90",
+          "width": 30,
+          "height": 90,
+          "size": "30X90",
+          "price": 4914
+      },
+      {
+          "sku": "900-P40100",
+          "item_name": "POSZTER 40X100",
+          "width": 40,
+          "height": 100,
+          "size": "40X100",
+          "price": 7280
+      },
+      {
+          "sku": "900-P40120",
+          "item_name": "POSZTER 40X120",
+          "width": 40,
+          "height": 120,
+          "size": "40X120",
+          "price": 8736
+      },
+      {
+          "sku": "900-P40150",
+          "item_name": "POSZTER 40X150",
+          "width": 40,
+          "height": 150,
+          "size": "40X150",
+          "price": 10920
+      },
+      {
+          "sku": "900-P4040",
+          "item_name": "POSZTER 40X40",
+          "width": 40,
+          "height": 40,
+          "size": "40X40",
+          "price": 2912
+      },
+      {
+          "sku": "900-P4050",
+          "item_name": "POSZTER 40X50",
+          "width": 40,
+          "height": 50,
+          "size": "40X50",
+          "price": 3640
+      },
+      {
+          "sku": "900-P4060",
+          "item_name": "POSZTER 40X60",
+          "width": 40,
+          "height": 60,
+          "size": "40X60",
+          "price": 4368
+      },
+      {
+          "sku": "900-P4070",
+          "item_name": "POSZTER 40X70",
+          "width": 40,
+          "height": 70,
+          "size": "40X70",
+          "price": 5096
+      },
+      {
+          "sku": "900-P4080",
+          "item_name": "POSZTER 40X80",
+          "width": 40,
+          "height": 80,
+          "size": "40X80",
+          "price": 5824
+      },
+      {
+          "sku": "900-P4090",
+          "item_name": "POSZTER 40X90",
+          "width": 40,
+          "height": 90,
+          "size": "40X90",
+          "price": 6552
+      },
+      {
+          "sku": "900-P50100",
+          "item_name": "POSZTER 50X100",
+          "width": 50,
+          "height": 100,
+          "size": "50X100",
+          "price": 9100
+      },
+      {
+          "sku": "900-P50120",
+          "item_name": "POSZTER 50X120",
+          "width": 50,
+          "height": 120,
+          "size": "50X120",
+          "price": 10920
+      },
+      {
+          "sku": "900-P50150",
+          "item_name": "POSZTER 50X150",
+          "width": 50,
+          "height": 150,
+          "size": "50X150",
+          "price": 13650
+      },
+      {
+          "sku": "900-P5050",
+          "item_name": "POSZTER 50X50",
+          "width": 50,
+          "height": 50,
+          "size": "50X50",
+          "price": 4550
+      },
+      {
+          "sku": "900-P5060",
+          "item_name": "POSZTER 50X60",
+          "width": 50,
+          "height": 60,
+          "size": "50X60",
+          "price": 5460
+      },
+      {
+          "sku": "900-P5070",
+          "item_name": "POSZTER 50X70",
+          "width": 50,
+          "height": 70,
+          "size": "50X70",
+          "price": 6370
+      },
+      {
+          "sku": "900-P5080",
+          "item_name": "POSZTER 50X80",
+          "width": 50,
+          "height": 80,
+          "size": "50X80",
+          "price": 7280
+      },
+      {
+          "sku": "900-P5090",
+          "item_name": "POSZTER 50X90",
+          "width": 50,
+          "height": 90,
+          "size": "50X90",
+          "price": 8190
+      },
+      {
+          "sku": "900-P60100",
+          "item_name": "POSZTER 60X100",
+          "width": 60,
+          "height": 100,
+          "size": "60X100",
+          "price": 10920
+      },
+      {
+          "sku": "900-P60120",
+          "item_name": "POSZTER 60X120",
+          "width": 60,
+          "height": 120,
+          "size": "60X120",
+          "price": 13104
+      },
+      {
+          "sku": "900-P60150",
+          "item_name": "POSZTER 60X150",
+          "width": 60,
+          "height": 150,
+          "size": "60X150",
+          "price": 16380
+      },
+      {
+          "sku": "900-P6060",
+          "item_name": "POSZTER 60X60",
+          "width": 60,
+          "height": 60,
+          "size": "60X60",
+          "price": 6552
+      },
+      {
+          "sku": "900-P6070",
+          "item_name": "POSZTER 60X70",
+          "width": 60,
+          "height": 70,
+          "size": "60X70",
+          "price": 7644
+      },
+      {
+          "sku": "900-P6080",
+          "item_name": "POSZTER 60X80",
+          "width": 60,
+          "height": 80,
+          "size": "60X80",
+          "price": 8736
+      },
+      {
+          "sku": "900-P6090",
+          "item_name": "POSZTER 60X90",
+          "width": 60,
+          "height": 90,
+          "size": "60X90",
+          "price": 9828
+      },
+      {
+          "sku": "900-P70100",
+          "item_name": "POSZTER 70X100",
+          "width": 70,
+          "height": 100,
+          "size": "70X100",
+          "price": 12740
+      },
+      {
+          "sku": "900-P70120",
+          "item_name": "POSZTER 70X120",
+          "width": 70,
+          "height": 120,
+          "size": "70X120",
+          "price": 15288
+      },
+      {
+          "sku": "900-P70150",
+          "item_name": "POSZTER 70X150",
+          "width": 70,
+          "height": 150,
+          "size": "70X150",
+          "price": 19110
+      },
+      {
+          "sku": "900-P7070",
+          "item_name": "POSZTER 70X70",
+          "width": 70,
+          "height": 70,
+          "size": "70X70",
+          "price": 8918
+      },
+      {
+          "sku": "900-P7080",
+          "item_name": "POSZTER 70X80",
+          "width": 70,
+          "height": 80,
+          "size": "70X80",
+          "price": 10192
+      },
+      {
+          "sku": "900-P7090",
+          "item_name": "POSZTER 70X90",
+          "width": 70,
+          "height": 90,
+          "size": "70X90",
+          "price": 11466
+      },
+      {
+          "sku": "900-P80100",
+          "item_name": "POSZTER 80X100",
+          "width": 80,
+          "height": 100,
+          "size": "80X100",
+          "price": 14560
+      },
+      {
+          "sku": "900-P80120",
+          "item_name": "POSZTER 80X120",
+          "width": 80,
+          "height": 120,
+          "size": "80X120",
+          "price": 17472
+      },
+      {
+          "sku": "900-P80150",
+          "item_name": "POSZTER 80X150",
+          "width": 80,
+          "height": 150,
+          "size": "80X150",
+          "price": 21840
+      },
+      {
+          "sku": "900-P8080",
+          "item_name": "POSZTER 80X80",
+          "width": 80,
+          "height": 80,
+          "size": "80X80",
+          "price": 11648
+      },
+      {
+          "sku": "900-P8090",
+          "item_name": "POSZTER 80X90",
+          "width": 80,
+          "height": 90,
+          "size": "80X90",
+          "price": 13104
+      },
+      {
+          "sku": "900-P90100",
+          "item_name": "POSZTER 90X100",
+          "width": 90,
+          "height": 100,
+          "size": "90X100",
+          "price": 16380
+      },
+      {
+          "sku": "900-P90120",
+          "item_name": "POSZTER 90X120",
+          "width": 90,
+          "height": 120,
+          "size": "90X120",
+          "price": 19656
+      },
+      {
+          "sku": "900-P90150",
+          "item_name": "POSZTER 90X150",
+          "width": 90,
+          "height": 150,
+          "size": "90X150",
+          "price": 24570
+      },
+      {
+          "sku": "900-P9090",
+          "item_name": "POSZTER 90X90",
+          "width": 90,
+          "height": 90,
+          "size": "90X90",
+          "price": 14742
+      }
+  ];
